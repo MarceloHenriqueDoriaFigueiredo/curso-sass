@@ -1,0 +1,9 @@
+p {
+  color: red;
+  cursor: pointer;
+}
+
+p:hover {
+  color: blue;
+}
+/*# sourceMappingURL=style.css.map */
